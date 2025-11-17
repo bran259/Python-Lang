@@ -1,5 +1,5 @@
-conditional statements
-if,elif, else
+# conditional statements
+# if,elif, else
 
 age = 10
 
