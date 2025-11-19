@@ -71,5 +71,12 @@ c1 = Car("Toyota", "Crown", -1)
 # print(c1.brand)  
 # print(c1.model)   
 print(c1._wheels)
-# print(c1.start())    
+# print(c1.start())  
 
+
+class Pet:
+
+  def __init__ (self, name):
+    self.name = name
+
+buddy = Pet("Buddy")
